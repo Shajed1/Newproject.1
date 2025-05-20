@@ -203,3 +203,74 @@ margin-left: 4px;
      height: 35px;
      border-radius: 50%;
 }
+
+/* This Second project  */
+/* project Name : Simple Mobile notification  css*/
+
+
+body{
+    padding-top: 100px;
+    
+}
+.fullprojectdiv{
+    margin-top: 100px;
+    border: 2px;
+    border-color: black;
+    box-shadow: 1px 1px 1px 4px black;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: lightcyan;
+    border-radius: 10px;
+}
+.firstdiv{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items:start;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+.firstpic{
+    width: 70px;
+    border-radius: 50%;
+}
+.tittle1{
+  font-weight: bolder;
+  max-width: 300px;
+}
+.tittle2{
+font-weight: 300;
+color: gray;
+max-width: 200px;
+}
+.time1{
+ font-weight: 300;
+color: gray;
+}
+.notification{
+     width: 30px;
+}
+.videoicon{
+width: 30px;
+}
+.searchicon{
+width: 30px;
+}
+.apps{
+width: 30px;
+}
+.buttonfulldiv{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 10px;
+    background-color:lightcyan ;
+    
+}
+.btn1,
+.btn2,
+.btn3,
+.btn4{
+    border-radius: 10px;
+}
